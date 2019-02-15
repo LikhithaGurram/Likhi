@@ -1,2 +1,2 @@
-# Likhi
+# Python
 Exercise
